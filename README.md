@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 소개
-- 🌱 현재 배우고 있는 것: `TypeScript`, `DB`
+- 🌱 현재 관심 있는 것: `TypeScript`, `DB`
 - 📫 연락처: rladbstn1212@gmail.com
 
 ---
