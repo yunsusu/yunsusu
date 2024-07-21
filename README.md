@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:4CAF50,100:FFEB3B&height=200&section=header&text=안녕하세요%20김윤수%20입니다!&fontSize=30&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:4CAF50,100:FFEB3B&height=150&section=header&text=안녕하세요%20김윤수%20입니다!&fontSize=25&fontColor=fff)
 
 ---
+
 <!-- 
 ### 👨‍💻 소개
 - 🌱 현재 배우고 있는 것: `TypeScript`, `DB`
@@ -8,15 +9,27 @@
 - 📫 연락처: rladbstn1212@gmail.com
 
 ---
- -->
+-->
+
+### 🛠️ 기술 스택
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
 ### 📊 GitHub 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsusu&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/yunsusu/github-readme-stats)
 
 ---
 
 ### 🔗 링크
-[![Tistory Blog](https://img.shields.io/badge/-Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://yunsusu.tistory.com/)
-[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=for-the-badge&logo=notion&logoColor=white)](https://yunsusu.notion.site/236a42e20bd94463a3bb1bf828a33e68?pvs=4)
+[![Tistory Blog](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://yunsusu.tistory.com/)
+[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat-square&logo=notion&logoColor=white)](https://yunsusu.notion.site/236a42e20bd94463a3bb1bf828a33e68?pvs=4)
 
 ---
 
