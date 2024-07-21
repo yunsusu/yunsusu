@@ -2,14 +2,11 @@
 
 ---
 
-<!-- 
 ### 👨‍💻 소개
 - 🌱 현재 배우고 있는 것: `TypeScript`, `DB`
-- 🔭 작업 중인 프로젝트: `NWcomms 프로젝트`
 - 📫 연락처: rladbstn1212@gmail.com
 
 ---
--->
 
 ### 🛠️ 기술 스택
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
