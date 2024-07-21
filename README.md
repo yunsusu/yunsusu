@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:4CAF50,100:FFEB3B&height=150&section=header&text=안녕하세요%20김윤수%20입니다!&fontSize=25&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:4B0082,100:D2B48C&height=150&section=header&text=안녕하세요%20김윤수%20입니다!&fontSize=25&fontColor=fff)
 
 ---
 
