@@ -26,7 +26,7 @@
 
 ### 🔗 링크
 [![Tistory Blog](https://img.shields.io/badge/-Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://yunsusu.tistory.com/)
-[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat-square&logo=notion&logoColor=white)](https://yunsusu.notion.site/236a42e20bd94463a3bb1bf828a33e68?pvs=4)
+<!-- [![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat-square&logo=notion&logoColor=white)](https://yunsusu.notion.site/236a42e20bd94463a3bb1bf828a33e68?pvs=4)-->
 
 ---
 
